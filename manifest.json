@@ -3,8 +3,7 @@
   "name": "Look up in dictionaries",
   "version": "1.0",
   "permissions": [
-    "contextMenus",
-    "tabs"
+    "contextMenus"
   ],
   "background": {
     "service_worker": "background.js"
